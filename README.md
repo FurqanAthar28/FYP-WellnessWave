@@ -1,3 +1,5 @@
+<img width="637" height="507" alt="image" src="https://github.com/user-attachments/assets/baf49567-fe0e-468c-b6eb-1d4a01a0ceb1" />
+
 # 🌿 WellnessWave — Mental Health Platform
 
 WellnessWave is a full-stack mental health platform built as a Final Year Project. It connects students, faculty, and staff with certified counsellors through appointment booking, real-time video sessions, and mental health resources — all within a secure, role-based web application.
